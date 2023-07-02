@@ -1,0 +1,11 @@
+Rohit,Sharma,4.2
+Shubman ,Gill,3.5
+Chateshwar,Pujara,4.5
+Virat,Kohli,4.9
+Ajinkya,Rahane,4.3
+Rishab,Pant,4.1
+Jadeja,Ravindra,3.8
+Ashwin,Ravi ,3.5
+Shami,Md,2.1
+Siraj,Mohammad,1.8
+Bumraj,Jasprit,1.5

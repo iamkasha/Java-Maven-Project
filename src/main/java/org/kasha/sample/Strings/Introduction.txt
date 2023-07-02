@@ -1,0 +1,17 @@
+Introduction:
+
+I am XXXXXX, an experienced Full Stack Developer with 8 years of professional experience in enterprise software application development, testing, maintenance, and production support. I possess extensive experience in both front-end and back-end development, covering all stages of the software development process. In back-end development, I have expertise in building server-side applications using Java, Spring Boot, and Hibernate. I have a deep understanding of designing and implementing RESTful APIs and working with databases like MySQL, Oracle, and MongoDB. On the front-end, I excel in HTML, CSS, and JavaScript, and have hands-on experience with frameworks like Angular and React. I specialize in creating dynamic and responsive user interfaces, implementing client-side validation, and integrating front-end components with back-end APIs. Database management is one of my strengths, with proficiency in SQL and ORM tools like Hibernate. I prioritize data modeling, normalization, and data integrity to ensure high-quality and secure data management systems. For deployment and continuous integration, I have utilized Docker, Jenkins, and Git. I also have extensive experience with AWS services, enabling me to set up infrastructure and deploy applications in the health domain. Additionally, I am skilled in troubleshooting production defects to ensure smooth operation of health-related software systems.
+
+CURRENT PROJECT:
+
+The Telehealth Platform for Remote Patient Monitoring is a comprehensive system that improves healthcare accessibility by enabling remote patient monitoring and virtual healthcare services. It includes real-time communication, vital sign monitoring, and secure medical information exchange. The technology stack involves HTML, CSS, JavaScript, Angular or React for dynamic user interfaces, Java and Spring Boot for server-side development, Hibernate for efficient database access, RESTful APIs for integration, and MySQL/Oracle/MongoDB for data storage. Docker and Jenkins aid in deployment and continuous integration. The infrastructure is hosted securely on AWS services like EC2, S3, and RDS. HIPAA compliance, secure authentication, encryption, and integration with third-party APIs are implemented. The platform supports data analytics, reporting, and notification systems for proactive patient monitoring.
+
+
+
+
+
+
+
+
+
+
