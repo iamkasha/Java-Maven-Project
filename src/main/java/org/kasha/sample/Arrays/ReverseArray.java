@@ -1,4 +1,4 @@
-package Arrays;
+package org.kasha.sample.Arrays;
 public class ReverseArray {
     public void arrayReverse(int[] arr){
         int n = arr.length;

@@ -1,4 +1,4 @@
-package Exceptions;
+package org.kasha.sample.Exceptions;
 
 public class InvalidStrToIntException extends RuntimeException{
 

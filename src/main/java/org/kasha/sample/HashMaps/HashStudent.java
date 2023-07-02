@@ -1,4 +1,4 @@
-package HashMaps;
+package org.kasha.sample.HashMaps;
 public class HashStudent {
         String firstName;
         String lastName;

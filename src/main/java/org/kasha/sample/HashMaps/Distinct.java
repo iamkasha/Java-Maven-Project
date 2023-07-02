@@ -1,4 +1,4 @@
-package HashMaps;
+package org.kasha.sample.HashMaps;
 
 import java.util.HashMap;
 import java.util.Iterator;

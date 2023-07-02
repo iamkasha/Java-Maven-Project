@@ -1,4 +1,4 @@
-package Strings;
+package org.kasha.sample.Strings;
 
 public class Vowels {
     int count = 0;

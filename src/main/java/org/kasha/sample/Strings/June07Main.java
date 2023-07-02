@@ -1,4 +1,4 @@
-package Strings;
+package org.kasha.sample.Strings;
 
 public class June07Main {
     public static void main(String[] args) {

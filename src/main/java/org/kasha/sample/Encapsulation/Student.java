@@ -1,4 +1,4 @@
-package Encapsulation;
+package org.kasha.sample.Encapsulation;
 
 // Student class
 public class Student {

@@ -1,4 +1,4 @@
-package Arrays;
+package org.kasha.sample.Arrays;
 
 public class ArrayRotation {
 

@@ -1,4 +1,4 @@
-package Strings;
+package org.kasha.sample.Strings;
 
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package StreamsLamdas;
+package org.kasha.sample.StreamsLamdas;
 
 import java.util.Arrays;
 import java.util.OptionalDouble;

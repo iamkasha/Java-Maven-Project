@@ -1,4 +1,4 @@
-package Strings;
+package org.kasha.sample.Strings;
 
 public class Student implements Comparable<Student>{
     public String firstName;

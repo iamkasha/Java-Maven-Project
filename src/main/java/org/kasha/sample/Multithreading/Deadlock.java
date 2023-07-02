@@ -1,4 +1,4 @@
-package Multithreading;
+package org.kasha.sample.Multithreading;
 
 class Deadlock {
     private static final Object resource1 = new Object();

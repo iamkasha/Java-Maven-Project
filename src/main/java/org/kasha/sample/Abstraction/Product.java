@@ -1,4 +1,4 @@
-package Abstraction;
+package org.kasha.sample.Abstraction;
 
 public class Product {
     private double price;

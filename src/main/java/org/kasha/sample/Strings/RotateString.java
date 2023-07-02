@@ -1,4 +1,4 @@
-package Strings;
+package org.kasha.sample.Strings;
 
 public class RotateString {
     //input - "JavaJ2eeStrutsHibernate", "StrutsHibernateJavaJ2ee"

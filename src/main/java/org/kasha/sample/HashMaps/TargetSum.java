@@ -1,4 +1,4 @@
-package HashMaps;
+package org.kasha.sample.HashMaps;
 import java.util.HashMap;
 public class TargetSum {
     public static void main(String[] args) {

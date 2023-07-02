@@ -1,4 +1,4 @@
-package Strings;
+package org.kasha.sample.Strings;
 
 //input - "Java J2EE Reverse Me"
 //output - "avaJ EE2J esreveR eM"

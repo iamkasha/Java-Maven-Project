@@ -1,4 +1,4 @@
-package ReverseandFibonacci;
+package org.kasha.sample.ReverseandFibonacci;
 
 public class Fibonacci {
     int a=0, b=1;

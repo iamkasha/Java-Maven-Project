@@ -1,4 +1,4 @@
-package ThreadConcepts;
+package org.kasha.sample.ThreadConcepts;
 
 public class ThreadbyClass extends Thread {
     public void run(){

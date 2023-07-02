@@ -1,4 +1,4 @@
-package Collectionss;
+package org.kasha.sample.Collectionss;
 
 public class Student {
     String firstName;

@@ -1,4 +1,4 @@
-package FinalandStatic;
+package org.kasha.sample.FinalandStatic;
 
 public class June02Main {
     public static void main(String[] args) {

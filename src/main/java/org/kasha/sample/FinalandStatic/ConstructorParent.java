@@ -1,4 +1,4 @@
-package FinalandStatic;
+package org.kasha.sample.FinalandStatic;
 
 public class ConstructorParent {
 

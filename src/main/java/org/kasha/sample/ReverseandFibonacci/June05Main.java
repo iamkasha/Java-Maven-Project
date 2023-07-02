@@ -1,4 +1,4 @@
-package ReverseandFibonacci;
+package org.kasha.sample.ReverseandFibonacci;
 
 public class June05Main {
     public static void main(String[] args) {

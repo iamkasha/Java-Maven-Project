@@ -1,4 +1,4 @@
-package Multithreading;
+package org.kasha.sample.Multithreading;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;

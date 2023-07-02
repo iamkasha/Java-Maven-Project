@@ -1,4 +1,4 @@
-package ReverseandFibonacci;
+package org.kasha.sample.ReverseandFibonacci;
 
 public class Person {
     public void ageGroup(int age){

@@ -1,4 +1,4 @@
-package HashMaps;
+package org.kasha.sample.HashMaps;
 
 import java.io.File;
 import java.io.FileNotFoundException;

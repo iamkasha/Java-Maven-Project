@@ -1,4 +1,4 @@
-package HashSets;
+package org.kasha.sample.HashSets;
 
 import java.util.HashSet;
 import java.util.Iterator;

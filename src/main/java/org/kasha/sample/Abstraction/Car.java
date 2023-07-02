@@ -1,4 +1,4 @@
-package Abstraction;
+package org.kasha.sample.Abstraction;
 
 public class Car extends Vehicle {
     public void move(){

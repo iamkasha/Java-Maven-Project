@@ -1,4 +1,4 @@
-package Collectionss;
+package org.kasha.sample.Collectionss;
 
 import java.util.ArrayList;
 import java.util.Arrays;

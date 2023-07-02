@@ -1,4 +1,4 @@
-package Exceptions;
+package org.kasha.sample.Exceptions;
 
 public class ExceptionMain {
     public static void main(String[] args) throws Exception {
